@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/405979807_261281123607727_5812574940537447634_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_ohc=CEhjsx16IXQAX_r2Ad-&_nc_ht=scontent.fdac24-3.fna&oh=00_AfCUwWkE17UpYw0jt2lFo1CnQzaRnriyVvoyFuVpKjamIg&oe=65925E70(https://rishavchanda.io)
+[![MasterHead]![405979807_261281123607727_5812574940537447634_n](https://github.com/mujahid-hasan-nur/mujahid-hasan-nur/assets/99802168/e2694cbb-6b54-44ef-bef2-eaee4c917755)
+(https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nur</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
