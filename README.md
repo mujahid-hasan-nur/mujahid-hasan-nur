@@ -1,7 +1,7 @@
 ![405979807_261281123607727_5812574940537447634_n](https://github.com/mujahid-hasan-nur/mujahid-hasan-nur/assets/99802168/4e57674c-c75f-4a74-a745-e21b3c1a7389)
 
 <h1 align="center">Hi 👋, I'm Nur</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">Web developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Web development**
 
