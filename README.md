@@ -1,4 +1,4 @@
-![405979807_261281123607727_5812574940537447634_n](https://github.com/mujahid-hasan-nur/mujahid-hasan-nur/assets/99802168/e2694cbb-6b54-44ef-bef2-eaee4c917755)
+(https://github.com/mujahid-hasan-nur/mujahid-hasan-nur/assets/99802168/e2694cbb-6b54-44ef-bef2-eaee4c917755)
 
 <h1 align="center">Hi 👋, I'm Nur</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
